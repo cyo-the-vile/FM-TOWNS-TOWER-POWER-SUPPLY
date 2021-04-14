@@ -28,3 +28,5 @@ This power supply can be used for the following FM Towns computers:
 To assemble you need to program an Arduino Pro Micro in the Arduino IDE.  Once the Arduino is programmed solder the pin headers and Arduino to the PCB.
 
 After that simply solder everything else.
+
+The Arduino runs on the 5V Standby of the Pico PSU and controls the power on via original power button and also the TownsOS power off feature.
