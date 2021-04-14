@@ -1,0 +1,15 @@
+
+J1         -  39-28-1243
+
+J2         -  PCN13-44S-2.54DS(71)         
+
+U1         -  Arduino Pro Micro
+
+Noctua Fan - 471053-1000
+
+The AC/DC Converter of choice is the EPP-120S-12.  However any 2x3 AC/DC converter can be used.  This specific one has a lot of power to it.
+
+For standoffs for the AC/DC Converter I used M3 screws at 20mm long with matching bolts.  
+Plastic standoff part number I used is 9911-12MM
+
+If you're not using a noctua fan when reassembling you can directly solder the fan wires to the motherboard as the 12V and GND should be easy to spot.
