@@ -1,5 +1,7 @@
 
-J1         -  39-28-1243
+J1         -  39-28-1243  That is the part number for the straight connector.  However you may find your metal shielding touching your pico this way.
+                          It is now recommended if possible to use a right angle connector so you may have better clearance inside the metal PSU shield.  
+                          The part number for a right angle connector is PRT-09498
 
 J2         -  PCN13-44S-2.54DS(71)         
 
