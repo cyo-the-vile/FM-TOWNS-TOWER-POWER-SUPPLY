@@ -23,3 +23,8 @@ This power supply can be used for the following FM Towns computers:
 -CX100
 -SF2
 -SH2
+
+
+To assemble you need to program an Arduino Pro Micro in the Arduino IDE.  Once the Arduino is programmed solder the pin headers and Arduino to the PCB.
+
+After that simply solder everything else.
