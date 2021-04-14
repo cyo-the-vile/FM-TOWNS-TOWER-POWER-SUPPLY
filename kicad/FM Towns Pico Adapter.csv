@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**,REF**";"MountingHole_2.1mm";3;"MountingHole_2.1mm";;;
+2;"REF**,REF**,REF**,REF**,REF**,REF**";"MountingHole_4.3mm_M4";6;"MountingHole_4.3mm_M4";;;
+3;"PAD4,PAD3,PAD2,PAD1";"MountingHole_3.5mm_Pad_Via";4;"MountingHole_3.5mm_Pad_Via";;;
+4;"FAN1";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02";;;
+5;"G***";"townslogo";1;"LOGO";;;
+6;"J2";"PCN1344S254DS71";1;"PCN13-44S-2.54DS_71_";;;
+7;"J1";"ATX24_RIGHT_ANGLE";1;"ATX24RH";;;
+8;"Q1";"SOT23";1;"BC847";;;
+9;"R4,R1,R2";"R0603";3;"1K";;;
+10;"PSON1,PSOFF1";"JP1";2;"JP1E";;;
+11;"IC1";"SO14";1;"7400D";;;
+12;"C1,C2,C3";"C0805";3;"100nF";;;
+13;"STBY_LED1,5V_LED1,12V_LED1";"CHIPLED_0805";3;"LEDCHIPLED_0805";;;
+14;"R5,R6";"R0603";2;"220R";;;
+15;"R7";"R0603";1;"680R";;;

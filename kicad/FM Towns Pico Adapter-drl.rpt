@@ -1,0 +1,31 @@
+Drill report for C:\Users\Ben\Desktop\eagle\FM Towns Pico Adapter\FM Towns Pico Adapter.kicad_pcb
+Created on 11/13/2020 8:14:52 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  Top                       front
+    L2 :  Bottom                    back
+
+
+Drill file 'FM Towns Pico Adapter-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.35mm  0.014"  (5 holes)
+    T2  0.50mm  0.020"  (32 holes)
+    T3  0.80mm  0.031"  (44 holes)
+    T4  0.91mm  0.036"  (4 holes)
+    T5  1.00mm  0.039"  (2 holes)
+    T6  1.80mm  0.071"  (24 holes)
+    T7  2.80mm  0.110"  (2 holes)
+    T8  3.50mm  0.138"  (4 holes)
+
+    Total plated holes count 117
+
+
+Drill file 'FM Towns Pico Adapter-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.10mm  0.083"  (3 holes)
+    T2  4.30mm  0.169"  (6 holes)
+
+    Total unplated holes count 9

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "FM Towns Pico Adapter")(type KiCad)(uri "$(KIPRJMOD)/FM Towns Pico Adapter.pretty")(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri "D:/kicad/Towns MX psu/pro micro/promicro.pretty")(options "")(descr ""))
+)

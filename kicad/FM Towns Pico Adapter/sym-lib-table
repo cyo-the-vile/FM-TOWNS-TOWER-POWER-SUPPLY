@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FM_Towns_Pico_Adapter-eagle-import)(type Legacy)(uri ${KIPRJMOD}/FM_Towns_Pico_Adapter-eagle-import.lib)(options "")(descr ""))
+)

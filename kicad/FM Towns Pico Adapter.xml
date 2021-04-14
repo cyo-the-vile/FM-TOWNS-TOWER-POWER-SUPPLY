@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Ben\Desktop\eagle\FM Towns Pico Adapter\FM Towns Pico Adapter.sch</source>
+    <date>11/13/2020 7:14:31 PM</date>
+    <tool>Eeschema (5.1.6)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FM Towns Pico Adapter.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>ATX24RH</value>
+      <footprint>FM Towns Pico Adapter:ATX24_RIGHT_ANGLE</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="ATX24RH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>449C7C68</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>BC847</value>
+      <footprint>FM Towns Pico Adapter:SOT23</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="BC847SMD" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>DF690751</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <footprint>FM Towns Pico Adapter:R0603</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="R-EU_R0603" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C5ADFEB6</tstamp>
+    </comp>
+    <comp ref="PSON1">
+      <value>JP1E</value>
+      <footprint>FM Towns Pico Adapter:JP1</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="JP1E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>20CCA6E9</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>7400D</value>
+      <footprint>FM Towns Pico Adapter:SO14</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="7400D" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>22F7723E</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>FM Towns Pico Adapter:C0805</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="C-EUC0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>09ADF4B9</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>FM Towns Pico Adapter:R0603</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="R-EU_R0603" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2B559F24</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>FM Towns Pico Adapter:R0603</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="R-EU_R0603" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>FA6D7899</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>FM Towns Pico Adapter:C0805</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="C-EUC0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6D294609</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>FM Towns Pico Adapter:C0805</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="C-EUC0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2D93CF11</tstamp>
+    </comp>
+    <comp ref="PSOFF1">
+      <value>JP1E</value>
+      <footprint>FM Towns Pico Adapter:JP1</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="JP1E" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0E9A3E9F</tstamp>
+    </comp>
+    <comp ref="STBY_LED1">
+      <value>LEDCHIPLED_0805</value>
+      <footprint>FM Towns Pico Adapter:CHIPLED_0805</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="LEDCHIPLED_0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A7C58CD9</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>220R</value>
+      <footprint>FM Towns Pico Adapter:R0603</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="R-EU_R0603" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>46C8EF27</tstamp>
+    </comp>
+    <comp ref="5V_LED1">
+      <value>LEDCHIPLED_0805</value>
+      <footprint>FM Towns Pico Adapter:CHIPLED_0805</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="LEDCHIPLED_0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>93393A19</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>220R</value>
+      <footprint>FM Towns Pico Adapter:R0603</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="R-EU_R0603" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>97CB871D</tstamp>
+    </comp>
+    <comp ref="12V_LED1">
+      <value>LEDCHIPLED_0805</value>
+      <footprint>FM Towns Pico Adapter:CHIPLED_0805</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="LEDCHIPLED_0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>F4EBC106</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>680R</value>
+      <footprint>FM Towns Pico Adapter:R0603</footprint>
+      <libsource lib="FM_Towns_Pico_Adapter-eagle-import" part="R-EU_R0603" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>C718D2E7</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>PCN13-44S-2.54DS_71_</value>
+      <footprint>Downloaded_parts:PCN1344S254DS71</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/dk/DKDS-30/594755.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">PCN13-44S-2.54DS(71)</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pcn13-44s-2.54ds-71/hirose-electric</field>
+        <field name="Description">CONN DIN RCPT 44POS PCB RA GOLD</field>
+        <field name="Height">8.4</field>
+        <field name="Manufacturer_Name">Hirose</field>
+        <field name="Manufacturer_Part_Number">PCN13-44S-2.54DS(71)</field>
+        <field name="Mouser Part Number">798-PCN1344S254DS71</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Hirose-Connector/PCN13-44S-254DS71?qs=eDUdFcBPps1Bc56B70i82w%3D%3D</field>
+      </fields>
+      <libsource lib="Downloaded_Parts" part="PCN13-44S-2.54DS_71_" description="CONN DIN RCPT 44POS PCB RA GOLD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FAF7F58</tstamp>
+    </comp>
+    <comp ref="FAN1">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6013E70F</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Downloaded_Parts" part="PCN13-44S-2.54DS_71_">
+      <description>CONN DIN RCPT 44POS PCB RA GOLD</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/dk/DKDS-30/594755.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">PCN13-44S-2.54DS_71_</field>
+        <field name="Footprint">PCN1344S254DS71</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/dk/DKDS-30/594755.pdf</field>
+        <field name="Description">CONN DIN RCPT 44POS PCB RA GOLD</field>
+        <field name="Height">8.4</field>
+        <field name="Manufacturer_Name">Hirose</field>
+        <field name="Manufacturer_Part_Number">PCN13-44S-2.54DS(71)</field>
+        <field name="Arrow Part Number">PCN13-44S-2.54DS(71)</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/pcn13-44s-2.54ds-71/hirose-electric</field>
+        <field name="Mouser Part Number">798-PCN1344S254DS71</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Hirose-Connector/PCN13-44S-254DS71?qs=eDUdFcBPps1Bc56B70i82w%3D%3D</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="A1" type="passive"/>
+        <pin num="A2" name="A2" type="passive"/>
+        <pin num="A3" name="A3" type="passive"/>
+        <pin num="A4" name="A4" type="passive"/>
+        <pin num="A5" name="A5" type="passive"/>
+        <pin num="A6" name="A6" type="passive"/>
+        <pin num="A7" name="A7" type="passive"/>
+        <pin num="A8" name="A8" type="passive"/>
+        <pin num="A9" name="A9" type="passive"/>
+        <pin num="A10" name="A10" type="passive"/>
+        <pin num="A11" name="A11" type="passive"/>
+        <pin num="A12" name="A12" type="passive"/>
+        <pin num="A13" name="A13" type="passive"/>
+        <pin num="A14" name="A14" type="passive"/>
+        <pin num="A15" name="A15" type="passive"/>
+        <pin num="A16" name="A16" type="passive"/>
+        <pin num="A17" name="A17" type="passive"/>
+        <pin num="A18" name="A18" type="passive"/>
+        <pin num="A19" name="A19" type="passive"/>
+        <pin num="A20" name="A20" type="passive"/>
+        <pin num="A21" name="A21" type="passive"/>
+        <pin num="A22" name="A22" type="passive"/>
+        <pin num="B1" name="B1" type="passive"/>
+        <pin num="B2" name="B2" type="passive"/>
+        <pin num="B3" name="B3" type="passive"/>
+        <pin num="B4" name="B4" type="passive"/>
+        <pin num="B5" name="B5" type="passive"/>
+        <pin num="B6" name="B6" type="passive"/>
+        <pin num="B7" name="B7" type="passive"/>
+        <pin num="B8" name="B8" type="passive"/>
+        <pin num="B9" name="B9" type="passive"/>
+        <pin num="B10" name="B10" type="passive"/>
+        <pin num="B11" name="B11" type="passive"/>
+        <pin num="B12" name="B12" type="passive"/>
+        <pin num="B13" name="B13" type="passive"/>
+        <pin num="B14" name="B14" type="passive"/>
+        <pin num="B15" name="B15" type="passive"/>
+        <pin num="B16" name="B16" type="passive"/>
+        <pin num="B17" name="B17" type="passive"/>
+        <pin num="B18" name="B18" type="passive"/>
+        <pin num="B19" name="B19" type="passive"/>
+        <pin num="B20" name="B20" type="passive"/>
+        <pin num="B21" name="B21" type="passive"/>
+        <pin num="B22" name="B22" type="passive"/>
+        <pin num="MH1" name="MH1" type="passive"/>
+        <pin num="MH2" name="MH2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FM_Towns_Pico_Adapter-eagle-import" part="7400D">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">7400D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I0" type="input"/>
+        <pin num="2" name="I1" type="input"/>
+        <pin num="3" name="O" type="output"/>
+        <pin num="4" name="I0" type="input"/>
+        <pin num="5" name="I1" type="input"/>
+        <pin num="6" name="O" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="O" type="output"/>
+        <pin num="9" name="I0" type="input"/>
+        <pin num="10" name="I1" type="input"/>
+        <pin num="11" name="O" type="output"/>
+        <pin num="12" name="I0" type="input"/>
+        <pin num="13" name="I1" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="FM_Towns_Pico_Adapter-eagle-import" part="ATX24RH">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">ATX24RH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3.3V@0" type="BiDi"/>
+        <pin num="2" name="3.3V@1" type="BiDi"/>
+        <pin num="3" name="GND@0" type="BiDi"/>
+        <pin num="4" name="5V@0" type="BiDi"/>
+        <pin num="5" name="GND@1" type="BiDi"/>
+        <pin num="6" name="5V@1" type="BiDi"/>
+        <pin num="7" name="GND@2" type="BiDi"/>
+        <pin num="8" name="PWR_OK" type="BiDi"/>
+        <pin num="9" name="5V_STDBY" type="BiDi"/>
+        <pin num="10" name="12V@0" type="BiDi"/>
+        <pin num="11" name="12V@1" type="BiDi"/>
+        <pin num="12" name="3.3V@2" type="BiDi"/>
+        <pin num="13" name="3.3V@3" type="BiDi"/>
+        <pin num="14" name="-12V" type="BiDi"/>
+        <pin num="15" name="GND@3" type="BiDi"/>
+        <pin num="16" name="PS_ON" type="BiDi"/>
+        <pin num="17" name="GND@4" type="BiDi"/>
+        <pin num="18" name="GND@5" type="BiDi"/>
+        <pin num="19" name="GND@6" type="BiDi"/>
+        <pin num="20" name="NC" type="BiDi"/>
+        <pin num="21" name="5V@2" type="BiDi"/>
+        <pin num="22" name="5V@3" type="BiDi"/>
+        <pin num="23" name="5V@4" type="BiDi"/>
+        <pin num="24" name="GND@7" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="FM_Towns_Pico_Adapter-eagle-import" part="BC847SMD">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC847SMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FM_Towns_Pico_Adapter-eagle-import" part="C-EUC0805">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-EUC0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FM_Towns_Pico_Adapter-eagle-import" part="JP1E">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JP1E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FM_Towns_Pico_Adapter-eagle-import" part="LEDCHIPLED_0805">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LEDCHIPLED_0805</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FM_Towns_Pico_Adapter-eagle-import" part="R-EU_R0603">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-EU_R0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Downloaded_Parts">
+      <uri>C:\Users\Ben\Documents\SamacSys_PCB_Library\KiCad/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="FM_Towns_Pico_Adapter-eagle-import">
+      <uri>C:\Users\Ben\Desktop\eagle\FM Towns Pico Adapter/FM_Towns_Pico_Adapter-eagle-import.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(J2-PadMH2)">
+      <node ref="J2" pin="MH2"/>
+    </net>
+    <net code="2" name="Net-(J2-PadMH1)">
+      <node ref="J2" pin="MH1"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="IC1" pin="10"/>
+      <node ref="PSON1" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="IC1" pin="9"/>
+      <node ref="FAN1" pin="1"/>
+      <node ref="J1" pin="15"/>
+      <node ref="C1" pin="2"/>
+      <node ref="IC1" pin="7"/>
+      <node ref="IC1" pin="12"/>
+      <node ref="J1" pin="3"/>
+      <node ref="J1" pin="17"/>
+      <node ref="IC1" pin="13"/>
+      <node ref="J1" pin="18"/>
+      <node ref="J1" pin="19"/>
+      <node ref="J1" pin="24"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="J1" pin="5"/>
+      <node ref="J1" pin="7"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="5V_LED1" pin="C"/>
+      <node ref="PSOFF1" pin="1"/>
+      <node ref="STBY_LED1" pin="C"/>
+      <node ref="J2" pin="A9"/>
+      <node ref="J2" pin="A10"/>
+      <node ref="J2" pin="A11"/>
+      <node ref="J2" pin="A12"/>
+      <node ref="J2" pin="B2"/>
+      <node ref="12V_LED1" pin="C"/>
+      <node ref="J2" pin="A8"/>
+      <node ref="J2" pin="A7"/>
+      <node ref="J2" pin="A6"/>
+      <node ref="J2" pin="A5"/>
+      <node ref="J2" pin="A4"/>
+      <node ref="J2" pin="A3"/>
+      <node ref="J2" pin="A2"/>
+      <node ref="J2" pin="B9"/>
+      <node ref="J2" pin="B10"/>
+      <node ref="J2" pin="B11"/>
+      <node ref="J2" pin="B12"/>
+      <node ref="J2" pin="B8"/>
+      <node ref="J2" pin="B3"/>
+      <node ref="J2" pin="B4"/>
+      <node ref="J2" pin="B5"/>
+      <node ref="J2" pin="B6"/>
+      <node ref="J2" pin="B7"/>
+    </net>
+    <net code="4" name="/5V_STBY">
+      <node ref="R1" pin="2"/>
+      <node ref="J1" pin="9"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="IC1" pin="14"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="5" name="-12V">
+      <node ref="J1" pin="14"/>
+      <node ref="J2" pin="A13"/>
+    </net>
+    <net code="6" name="/OS_SHUTDOWN">
+      <node ref="J2" pin="A1"/>
+    </net>
+    <net code="7" name="Net-(12V_LED1-PadA)">
+      <node ref="12V_LED1" pin="A"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="8" name="+5V">
+      <node ref="J2" pin="A16"/>
+      <node ref="J2" pin="A17"/>
+      <node ref="J2" pin="A22"/>
+      <node ref="J2" pin="A21"/>
+      <node ref="J2" pin="A20"/>
+      <node ref="J2" pin="A19"/>
+      <node ref="J2" pin="A18"/>
+      <node ref="J2" pin="B16"/>
+      <node ref="R6" pin="1"/>
+      <node ref="J1" pin="6"/>
+      <node ref="J2" pin="B17"/>
+      <node ref="J1" pin="4"/>
+      <node ref="J2" pin="B22"/>
+      <node ref="J2" pin="B18"/>
+      <node ref="J2" pin="B19"/>
+      <node ref="J2" pin="B20"/>
+      <node ref="J2" pin="B21"/>
+      <node ref="J1" pin="21"/>
+      <node ref="J1" pin="22"/>
+      <node ref="J1" pin="23"/>
+    </net>
+    <net code="9" name="Net-(5V_LED1-PadA)">
+      <node ref="5V_LED1" pin="A"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="10" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2"/>
+      <node ref="STBY_LED1" pin="A"/>
+    </net>
+    <net code="11" name="+12V">
+      <node ref="J2" pin="B14"/>
+      <node ref="J1" pin="11"/>
+      <node ref="J1" pin="10"/>
+      <node ref="FAN1" pin="2"/>
+      <node ref="R7" pin="1"/>
+      <node ref="J2" pin="A14"/>
+      <node ref="J2" pin="A15"/>
+      <node ref="J2" pin="B15"/>
+      <node ref="J2" pin="B13"/>
+    </net>
+    <net code="12" name="+3V3">
+      <node ref="J1" pin="1"/>
+      <node ref="J1" pin="12"/>
+      <node ref="J1" pin="13"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="13" name="Net-(J1-Pad8)">
+      <node ref="J1" pin="8"/>
+    </net>
+    <net code="14" name="Net-(J1-Pad20)">
+      <node ref="J1" pin="20"/>
+    </net>
+    <net code="15" name="Net-(IC1-Pad11)">
+      <node ref="IC1" pin="11"/>
+    </net>
+    <net code="16" name="Net-(IC1-Pad8)">
+      <node ref="IC1" pin="8"/>
+    </net>
+    <net code="17" name="/PS_ON_TTL">
+      <node ref="Q1" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="18" name="Net-(IC1-Pad2)">
+      <node ref="IC1" pin="6"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="19" name="/FM_PS_ON_N">
+      <node ref="J2" pin="B1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="20" name="/ATX_PS_ON_N">
+      <node ref="PSON1" pin="1"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="J1" pin="16"/>
+    </net>
+    <net code="21" name="/FM_PS_OFF_N">
+      <node ref="R1" pin="1"/>
+      <node ref="PSOFF1" pin="2"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="C2" pin="1"/>
+    </net>
+  </nets>
+</export>

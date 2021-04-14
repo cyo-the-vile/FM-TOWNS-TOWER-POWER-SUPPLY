@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name FM_Towns_Pico_Adapter-eagle-import)(type Legacy)(uri ${KIPRJMOD}/FM_Towns_Pico_Adapter-eagle-import.lib)(options "")(descr ""))
+  (lib (name FM-Towns-Pico-Adapter-rescue)(type Legacy)(uri "${KIPRJMOD}/FM Towns Pico Adapter-rescue.lib")(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri "${KIPRJMOD}/pro micro/pro micro/promicro_library/promicro.lib")(options "")(descr ""))
+)
